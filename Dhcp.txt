@@ -41,3 +41,22 @@ Dynamic host configuration: DHCP automates the host configuration process and el
 Seamless IP host configuration: The use of DHCP ensures that DHCP clients get accurate and timely IP configuration IP configuration parameter such as IP address, subnet mask, default gateway, IP address of DND server and so on without user intervention.
 
 Flexibility and scalability: Using DHCP gives the administrator increased flexibility, allowing the administrator to move easily change IP configuration when the infrastructure changes.
+
+
+
+
+
+Dynamic Host Configuration Protocol
+every computer on a network has to have an ip address.
+2 ways that the computer can be assigned  an ip address
+1. static Ip 2. Dynamic IP
+
+DHCP scope -> start IP address - 192.168.1.1
+              end IP address - 192.168.1.100
+
+A dynamic ip is where a computer gets an IP address from DHCP server.
+dhcp server automatically assigns a computer an: 
+IP address
+Subnet mask
+Default gateway
+DNS server
