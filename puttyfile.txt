@@ -1,0 +1,68 @@
+<html>
+<head> Welcome to My web page</head>
+<body>
+ this is related to understanding putty
+ 
+ <p>putty -> SSH -> secured Shell -> Application layer (http,ftp,telnet,ssh)
+cloud -> aws 
+15GB storage -> added some 13 GB data -> 2 GB -> 14.98 Gb full 
+deleting -> copying the data into your hard disk 
+
+hard disk -> full 
+
+Cloud -> storage , scalability -> prices 
+organization -> pubG -> 100 users (2 servers)-> 1 month -> 2000 (20 servers) -> rented the shop -> 3000(10 more servers) -> 30 servers -> fix ( maintance)
+organization 2 -> pubB -> 3rd -> 2000 shifted 
+
+Cloud -> Azure ,aws, GCP ,azure sales ->  budget (rates )
+
+AWS -> EC2 instance (VM) -> create vm (linux)-> windows -> putty ( connect with the virtual machine with its IP address)
+
+create a virtual machine -> install putty
+sudo apt update 
+sudo apt intall  putty
+
+sudo apt install ssh 
+
+windows
+putty download set 
+installed -> ip address 
+
+sudo su (root user) -> 
+
+editor -> type and execute the code 
+nano vi
+
+sudo su ->  for becoming the admin
+
+sudo apt update -> make machine or os updated
+
+sudo apt install apache2  // web server 
+
+sudo systemctl status apache2  // to check that apache2 is running/active  or not  
+
+Q -> exit
+
+// curl is not installed cmd: sudo apt install curl
+curl localhost  // connect your web client with web server
+
+pwd
+
+cd /var/www/html // html is storing some web app
+
+ls
+
+index.html
+
+cat index.html // view the content of file 
+
+rm index.html // remove the file
+
+nano index.html -> enter -> editor to type <html> code -> ctr+x ->  y -> enter   // nano is an editor
+
+ls
+
+cat index.html
+</p>
+ </body>
+ </html>
